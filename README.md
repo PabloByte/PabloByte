@@ -25,6 +25,7 @@
 
 ### Minhas Habilidades:
 
+![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java)&nbsp;
 ![Html](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)&nbsp;
 ![Css](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=DCDCDC)&nbsp;
@@ -32,7 +33,6 @@
 
 ### Estudando no momento:
 
-![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
