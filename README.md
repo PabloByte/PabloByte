@@ -33,6 +33,7 @@
 
 ### Estudando no momento:
 
+![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
