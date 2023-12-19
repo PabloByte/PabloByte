@@ -1,4 +1,4 @@
-www.linkedin.com/in/marquesdev<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pablo+Marques!;Eu+tenho+26+anos.;Eu+sou+de+Ciência+da+Computação;e+um+amante+da+tecnologia;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@ www.linkedin.com/in/marquesdev<img width=100% src="https://capsule-render.vercel
 
 <div align="center"> 
   <br><p align="centre"><b>Conecte-se Comigo</b></p>  
-  <a href="www.linkedin.com/in/marquesdev/www.linkedin.com/in/marquesdevwww.linkedin.com/in/marquesdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" target="_blank"></a>
+  <a href="www.linkedin.com/in/marquesdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" target="_blank"></a>
   <a href="https://github.com/PabloByte/" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/the_phabllo"> <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" target="_blank"></a>
   <a href="https://t.me/devpabllo" target="_blank"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" style="border-radius: 30px" target="_blank"></a> 
