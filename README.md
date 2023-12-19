@@ -9,7 +9,7 @@
 
 <div align="center"> 
   <br><p align="centre"><b>Conecte-se Comigo</b></p>  
-  <a href="https://www.linkedin.com/in/pView my verified achievement from Cisco.View my verified achievement from Cisco.View my verified achievement from Cisco.ablobyte/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" target="_blank"></a>
+  <a href="www.linkedin.com/in/marquesdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" target="_blank"></a>
   <a href="https://github.com/PabloByte/" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/the_phabllo"> <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" target="_blank"></a>
   <a href="https://t.me/devpabllo" target="_blank"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" style="border-radius: 30px" target="_blank"></a> 
@@ -33,9 +33,10 @@
 
 ### Estudando no momento:
 
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777884)
 ![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java)&nbsp;
-![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p>  
