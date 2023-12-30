@@ -40,16 +40,16 @@
 
 ### Metas para 2024
 
-# Aumentar meu nivel de desenvolvimento em JAVA.
-# aprender PHP (pelo menos nivel intermediario).
-# Aprender RUST (pelo menos nivel intermediario).
-# Aprender LUA (pelo menos Nivel intermediario).
-# Solidificar Conhecimentos e avançar no meus projetos.
-# Intensificar o uso de frameworks e  adicionar metodos de programação mais eficientes.
-# Desenvolver meu primeiro Game.
-# Desenvolver minha primeira aplicação Web.
-# Desenvolver meu primeiro software em RUST.
-# Mais Metas serão colocadas ...
+### Aumentar meu nivel de desenvolvimento em JAVA.
+### aprender PHP (pelo menos nivel intermediario).
+### Aprender RUST (pelo menos nivel intermediario).
+### Aprender LUA (pelo menos Nivel intermediario).
+### Solidificar Conhecimentos e avançar no meus projetos.
+### Intensificar o uso de frameworks e  adicionar metodos de programação mais eficientes.
+### Desenvolver meu primeiro Game.
+### Desenvolver minha primeira aplicação Web.
+### Desenvolver meu primeiro software em RUST.
+### Mais Metas serão colocadas ...
 
 
 <div align="center">
