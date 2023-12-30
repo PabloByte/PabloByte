@@ -23,7 +23,7 @@
 </div>
 
 
-### Minhas Habilidades:
+### Minhas Habilidades
 
 ![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java)&nbsp;
 ![Html](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)&nbsp;
@@ -31,12 +31,26 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=DCDCDC)&nbsp;
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)&nbsp;
 
-### Estudando no momento:
+### Estudando no momento
 
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777884)
 ![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Rust](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![Lua](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+### Metas para 2024
+
+# Aumentar meu nivel de desenvolvimento em JAVA.
+# aprender PHP (pelo menos nivel intermediario).
+# Aprender RUST (pelo menos nivel intermediario).
+# Aprender LUA (pelo menos Nivel intermediario).
+# Solidificar Conhecimentos e avançar no meus projetos.
+# Intensificar o uso de frameworks e  adicionar metodos de programação mais eficientes.
+# Desenvolver meu primeiro Game.
+# Desenvolver minha primeira aplicação Web.
+# Desenvolver meu primeiro software em RUST.
+# Mais Metas serão colocadas ...
+
 
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p>  
